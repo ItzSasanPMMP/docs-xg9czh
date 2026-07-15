@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-tv76fo.hartawin.online/sitemap.xml
